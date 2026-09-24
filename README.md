@@ -7,6 +7,13 @@ ship **autoshoots**; you control only movement (temple pad). Grab a huge, balanc
 arsenal of powerups, each with its own glow, and duel a boss with real personality
 at the end of every era.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="Temporal Ace title screen">
+  <img src="images/gameplay.png" width="45%" alt="Temporal Ace WWI-era dogfight with enemy formation">
+</p>
+
 Built on the proven self-contained X3 stack (custom Canvas + dual-draw
 `BinocularSbsLayout` + `TrackpadGestureEngine`); the only dependency is NanoHTTPD
 for the companion server.
